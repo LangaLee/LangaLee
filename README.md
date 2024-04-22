@@ -2,3 +2,7 @@
 
 
 ## My stack
+Javascript
+Typescript
+HTML && CSS
+React , Next.js, Sass, Tailwind, Jest, Express, SQL, MongoDB

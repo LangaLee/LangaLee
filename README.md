@@ -5,4 +5,4 @@
 Javascript, typescript, rust, HTML & CSS
 
 ## Frameworks
-React, Next, 
+React, Next, Tauri
